@@ -1,4 +1,4 @@
-github_learn-react-use-its-starter-kit
-======================================
+#github_learn-react-use-its-starter-kit
 
-使用react官网提供的starter kit学习react
+##简述
+使用官网提供的starter kit学习react
